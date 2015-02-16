@@ -1,0 +1,10 @@
+= Somehow this is the title
+
+This is the first post.
+
+[source,python]
+----
+import something
+    
+print "Some other thing"
+----
